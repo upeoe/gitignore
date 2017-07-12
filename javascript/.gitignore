@@ -1,0 +1,10 @@
+# Mac
+.DS_Store
+
+# Npm
+node_modules/
+npm-debug.log
+dist/
+
+# Virtual Studio Code
+.vs_code/
